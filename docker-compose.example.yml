@@ -1,6 +1,6 @@
 services:
   cartridge:
-    image: jamjnsn/cartridge:latest
+    image: kubesail/cartridge:6
     ports:
       - 8000:80
     volumes:
